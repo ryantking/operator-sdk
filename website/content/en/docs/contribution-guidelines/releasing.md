@@ -150,6 +150,7 @@ git push -f upstream v1.3.x
 - Make an [operator-framework Google Group][of-ggroup] post.
 - Post to Kubernetes slack in #kubernetes-operators and #operator-sdk-dev.
 - In the [GitHub milestone][gh-milestones], bump any open issues to the following release.
+- Check that the new versioned documentation site is online.
 
 
 ## Patch releases
